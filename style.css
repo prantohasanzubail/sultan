@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.dream-sec .sec2 .img-area img{
+    border-radius: 100px;
+}
+
+ #sul{
+    border-radius: 100px;
+     align-items: center;
+ }
+    .orange-color {
+        color: orange;
+      }
+
+      section{
+        display: flex;
+      }
+  h1 {
+    font-size: 50px;
+  }
+.img-area img{
+    width: 80%;
+    padding: 20px;
+}
+
+
+.half-width
+{
+    width: 50%;
+}
+.con-area{
+    padding-left: 50px;
+    
+}
+.con-area a{
+    text-decoration: none;
+  color: white;
+    background-color: orange;
+   background-image:linear-gradient(orange,tomato);
+    padding: 7px 22px;
+    border-radius: 3px;
+}
+.sec{
+    background-image: url(images/top-banner.png)
+    
+}
+.sec{
+    background-repeat: no-repeat;
+}
+.con-area p{
+    width: 80%;
+    text-align: justify;
+}
+
+
+
+.dream-sec{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+background-position: center right;
+display: flex;
+flex-direction: row-reverse;
+}
+
+.expiriance-list {
+    margin: 50px;
+    padding: 20px;
+    border-left: 5px solid #FF8911;
+    box-shadow: 1px 1px 30px 1px;
+    
+}
+
+
+.expiriance-list2 {
+    margin: 50px;
+    padding: 20px;
+    border-left: 5px solid white;
+    border-image: linear-gradient(red, blue, gold ,green );
+    box-shadow: 1px 1px 30px 1px;
+    
+}
+
+
+#lol{
+    border-left: 5px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+.expiriance{
+    background-image: url(images/exp-bg.png);
+    Background-position: left ;
+    background-repeat: no-repeat;
+}
+
+footer{
+    text-align: justify;
+    padding: 20px;
+    
+}
